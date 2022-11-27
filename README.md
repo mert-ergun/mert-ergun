@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi 👋, I'm Mert!
+
+A Computer Engineering Student from Ankara/Turkey
+
+- 🌱 I’m currently learning **Python**, **Javascript**.
+- 🔭 I’m currently working on a project about **Data Science**.
+- 💬 Ask me about everything you have in your mind!
+- 📫 How to reach me: mertergun17@hotmail.com
 
 <!--
 **mert-ergun/mert-ergun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
