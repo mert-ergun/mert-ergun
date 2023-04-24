@@ -3,7 +3,7 @@
 A Computer Engineering Student from Ankara/Turkey
 
 - 🌱 I’m currently learning **Python**, **Java**.
-- 🔭 I’m currently working on a project about **Data Science**.
+- 🔭 I’m currently working on a project about **Bioinformatics** in TUBİTAK.
 - 💬 Ask me about everything you have in your mind!
 - 📫 How to reach me: mertergun17@hotmail.com
 
