@@ -3,7 +3,7 @@
 A Computer Engineering Student from Hacettepe University - Ankara/Turkey
 
 - 🌱 I’m currently learning **Python**, **Java**, **JavaScript** and **C++**.
-- 🔭 I’m currently working on a project about **Bioinformatics** at **TUBİTAK** and a project about **Machine Learning** at **ACM Hacettepe**.
+- 🔭 I’m currently working on a project about **Bioinformatics** at **TUBİTAK** and a project about **Machine Learning** at **Jotform**.
 - 💬 Ask me about everything you have in your mind!
 - 📫 How to reach me: mertergun17@hotmail.com
 
