@@ -78,9 +78,16 @@ I'm a third-year Computer Science student at Hacettepe University, passionate ab
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mert-ergun&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=mert-ergun&theme=tokyo-night" alt="GitHub Graph" />
 </div>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mert-ergun&show_icons=true&theme=tokyo-night&title_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&locale=en&layout=compact&hide_border=true" alt="Most Used Languages" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mert-ergun&show_icons=true&theme=tokyo-night&title_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&locale=en&hide_border=true" alt="GitHub Stats" />
+</p>
+
 
 ## 🌐 Connect with me
 
