@@ -20,6 +20,10 @@ I'm a third-year Computer Science student at Hacettepe University, passionate ab
 
 <table>
   <tr>
+    <td><img src="https://anatoliaaerodesign.com/wp-content/uploads/2018/03/TEI-Logo.png" alt="TEI Logo" width="50" height="50"/></td>
+    <td><strong>Data Security Intern</strong><br>TEI (09/2024 - 10/2024)</td>
+  </tr>
+  <tr>
     <td><img src="https://seeklogo.com/images/J/jotform-logo-22A163C01F-seeklogo.com.png" alt="Jotform Logo" width="50" height="50"/></td>
     <td><strong>Data Science Intern</strong><br>Jotform (06/2024 – 08/2024)</td>
   </tr>
